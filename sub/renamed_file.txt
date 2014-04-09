@@ -1,2 +1,0 @@
-This is a non-empty file that I am creating for part 5.
-A new line I am adding for part 6.
